@@ -15,7 +15,7 @@ Routers and Switches Cisco with SNMP version 2c community configured
 # Limitations
 - Same community for all devices in devices_list.txt
 - Works for SNMP version 2c
-- Run on por 161, if necessary you can chance that on code (snmp_port = your_port)
+- Run on port UDP/161, if necessary you can chance that on code (snmp_port = your_port)
 
 # Usage
 1) Install Python and the modules
