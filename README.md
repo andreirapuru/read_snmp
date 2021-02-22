@@ -21,6 +21,7 @@ Routers and Switches Cisco with SNMP version 2c community configured
 1) Install Python and the modules
 2) Download this repository or copy read_snmp_oid.py, snmp_helper.py and devices_list.txt to the same folder
 3) Run "python read_snmp_oid.py community OID (Ex. python read_snmp_info.py brainwork .1.3.6.1.2.1.1.5.0)
+[output](https://user-images.githubusercontent.com/17407109/108751337-d6517d00-7520-11eb-900c-eb6ac201abd7.PNG)
 
 # Use case
 To collect specific SNMP information for a list of devices
